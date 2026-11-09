@@ -1,0 +1,39 @@
+CENTRO DE OLHOS ESSENCIAL — LANDING PAGE
+
+VISUALIZAÇÃO LOCAL
+1. Extraia o arquivo ZIP.
+2. Abra o arquivo index.html no navegador (Chrome, Edge, Firefox etc.).
+3. Para testar no celular sem publicar, execute um servidor local na pasta do projeto (por exemplo: python -m http.server 8000) e acesse pelo IP local do computador na mesma rede.
+4. O formulário abre o WhatsApp com a mensagem preenchida; é necessário confirmar o envio dentro do WhatsApp.
+
+ESTRUTURA
+- index.html: conteúdo e estrutura da página
+- style.css: identidade visual e responsividade
+- script.js: menu móvel, formulário e seleção de serviços
+- assets/logo-original.png: logomarca fornecida pela empresa
+
+DADOS CONFIRMADOS
+Nome: CENTRO DE OLHOS ESSENCIAL
+Localização: Rua Simões Filho, 40, Boca do Rio, Salvador, BA, CEP 41705-010
+WhatsApp: 55 71 98803-5696
+Instagram: https://www.instagram.com/centrodeolhosessencial/?hl=pt
+Público: todas as idades
+
+PENDÊNCIAS ANTES DA PUBLICAÇÃO
+- Enviar fotografias reais e autorizadas da clínica/equipe para substituir o espaço reservado.
+- Revisar e aprovar descrições dos serviços e conformidade profissional/regulatória com o responsável técnico e assessoria adequada; confirmar as atribuições e procedimentos efetivamente oferecidos.
+- Confirmar horário de atendimento, responsável técnico e dados institucionais que se queira divulgar.
+- Revisar a necessidade de política de privacidade e avisos sobre tratamento de dados para a operação real.
+- Caso queira remover dependência externa de fontes, hospedar fontes localmente ou usar fontes do sistema.
+
+PUBLICAÇÃO FUTURA (NÃO REALIZADA)
+Após aprovação, hospede os arquivos em uma plataforma de sites estáticos como Netlify, com domínio próprio se desejado. Antes, confira as pendências acima e teste todos os links em ambiente publicado.
+
+MELHORIAS FUTURAS
+- Galeria de fotos reais otimizada em WebP/AVIF
+- SEO local e perfil da empresa no Google
+- Página de privacidade e eventual gestão de consentimento conforme uso real de ferramentas
+- Integração de agenda somente se houver sistema real de marcação
+
+OBSERVAÇÃO
+Este projeto não contém fotos fictícias de pacientes ou instalações, depoimentos inventados ou promessa de resultados. Não houve publicação na internet.
